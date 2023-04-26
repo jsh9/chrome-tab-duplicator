@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Tab Duplicator",
   "description": "Duplicate current tab with one click or Alt + Shift + 2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
@@ -15,7 +15,7 @@
       "128": "icon.png"
     }
   },
-  "permissions": ["tabs"],
+  "permissions": [],
   "background": {
     "service_worker": "background.js"
   },
