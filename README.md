@@ -7,15 +7,7 @@ There is no built-in keyboard shortcut to duplicate tabs in Chrome or Edge, whic
 
 ## 1. Installation
 
-This extension is not on the Chrome Web Store yet. To install it manually into your Chrome or Edge browser, following the steps below:
-
-1. Download this extension. You can choose either options:
-    * Download the latest stable release from the [Releases](https://github.com/jsh9/chrome-tab-duplicator/releases) page
-    * Clone this repository (which may contain newer-than-stable features). [Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)) is how to clone a Github repository.
-
-2. Manually load the downloaded/cloned files into the browser:
-    * [Chrome](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)
-    * [Edge](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading)
+Please go the Chrome Web Store to install it: https://chrome.google.com/webstore/detail/tab-duplicator/lfmcdmbfaplkbjkefabcfbkfelmhhboa
 
 
 ## 2. How to use
