@@ -15,5 +15,7 @@ Please go the Chrome Web Store to install it: https://chrome.google.com/webstore
 With your mouse or trackpad, simply click on this extension's icon.
 
 Alternatively, use the following keyboard shortcut:
-- Windows and Linux: `Alt + Shift + 2`
-- macOS: `Option + Shift + 2`
+- Windows and Linux: `Alt + Shift + D`
+- macOS: `Option + Shift + D`
+
+If you prefer to use another keyboard shortcut, you can customize it in **chrome://extensions/shortcuts** (or **edge://extensions/shortcuts**).
